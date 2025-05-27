@@ -1,3 +1,5 @@
+⚠️ This project is no longer maintained. It is kept here for reference purposes only. Please be aware that it contains outdated dependencies with known security vulnerabilities.
+
 ## ABOUT LARAVEL VUE CRUD
 
 Laravel Vue Crud , VUE 2.0 and LARAVEL 5.4 .
